@@ -1,0 +1,6 @@
+# Routes
+
+GET     /cards              Card.GetList
+POST    /cards              Card.Add
+DELETE  /cards/:id          Card.Delete
+
